@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\bin\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.exe
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\bin\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.deps.json
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\bin\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.runtimeconfig.json
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\bin\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.runtimeconfig.dev.json
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\bin\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.dll
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\bin\Debug\net5.0\ref\61.JaggedArray.Basic.Exercise.Dictionaries.dll
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\bin\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.pdb
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.AssemblyInfo.cs
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.dll
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\ref\61.JaggedArray.Basic.Exercise.Dictionaries.dll
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.pdb
+D:\WS\CSharpBasic\61.JaggedArray.Basic.Exercise.Dictionaries\obj\Debug\net5.0\61.JaggedArray.Basic.Exercise.Dictionaries.genruntimeconfig.cache

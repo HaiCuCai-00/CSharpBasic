@@ -1,0 +1,32 @@
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.exe
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.deps.json
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.dll
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\ref\06.Condition.SwitchCase.dll
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.pdb
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.dll
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\ref\06.Condition.SwitchCase.dll
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.pdb
+D:\WS\Backup C#\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.genruntimeconfig.cache
+D:\WS\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.exe
+D:\WS\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.deps.json
+D:\WS\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.runtimeconfig.json
+D:\WS\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.runtimeconfig.dev.json
+D:\WS\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.dll
+D:\WS\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\ref\06.Condition.SwitchCase.dll
+D:\WS\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.pdb
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.AssemblyInfo.cs
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.dll
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\ref\06.Condition.SwitchCase.dll
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.pdb
+D:\WS\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.exe
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.deps.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.runtimeconfig.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.runtimeconfig.dev.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.AssemblyInfoInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.AssemblyInfo.cs
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.csproj.CoreCompileInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.genruntimeconfig.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.exe
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.deps.json
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.dll
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.pdb
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.dll
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.pdb
+D:\WS\Backup C#\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.genruntimeconfig.cache
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.exe
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.deps.json
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.runtimeconfig.json
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.runtimeconfig.dev.json
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.dll
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\bin\Debug\netcoreapp3.1\05.Condition.Operators.Performance.pdb
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.AssemblyInfo.cs
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.dll
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.pdb
+D:\WS\CSharpBasic\05.Condition.Operators.Performance\obj\Debug\netcoreapp3.1\05.Condition.Operators.Performance.genruntimeconfig.cache

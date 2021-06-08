@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_58.Aray.TưoDimension.Êrcise.SelecetionSorting/1.0.0": {
+        "runtime": {
+          "_58.Aray.TưoDimension.Êrcise.SelecetionSorting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_58.Aray.TưoDimension.Êrcise.SelecetionSorting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

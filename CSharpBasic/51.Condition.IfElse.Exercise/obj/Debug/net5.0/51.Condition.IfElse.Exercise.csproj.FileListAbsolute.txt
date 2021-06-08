@@ -1,0 +1,16 @@
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.exe
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.deps.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\ref\51.Condition.IfElse.Exercise.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.pdb
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\ref\51.Condition.IfElse.Exercise.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.pdb
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.genruntimeconfig.cache

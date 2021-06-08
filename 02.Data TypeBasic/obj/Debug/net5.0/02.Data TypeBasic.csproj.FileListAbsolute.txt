@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\bin\Debug\net5.0\02.Data TypeBasic.exe
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\bin\Debug\net5.0\02.Data TypeBasic.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\bin\Debug\net5.0\02.Data TypeBasic.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\bin\Debug\net5.0\02.Data TypeBasic.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\bin\Debug\net5.0\02.Data TypeBasic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\bin\Debug\net5.0\ref\02.Data TypeBasic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\bin\Debug\net5.0\02.Data TypeBasic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\ref\02.Data TypeBasic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.genruntimeconfig.cache
+D:\.NET_LopAnnhManh\CSharpBasic\02.Data TypeBasic\obj\Debug\net5.0\02.Data TypeBasic.csprojAssemblyReference.cache

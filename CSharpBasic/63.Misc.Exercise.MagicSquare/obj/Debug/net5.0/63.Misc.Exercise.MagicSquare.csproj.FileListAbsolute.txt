@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\bin\Debug\net5.0\63.Misc.Exercise.MagicSquare.exe
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\bin\Debug\net5.0\63.Misc.Exercise.MagicSquare.deps.json
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\bin\Debug\net5.0\63.Misc.Exercise.MagicSquare.runtimeconfig.json
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\bin\Debug\net5.0\63.Misc.Exercise.MagicSquare.runtimeconfig.dev.json
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\bin\Debug\net5.0\63.Misc.Exercise.MagicSquare.dll
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\bin\Debug\net5.0\ref\63.Misc.Exercise.MagicSquare.dll
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\bin\Debug\net5.0\63.Misc.Exercise.MagicSquare.pdb
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.AssemblyInfo.cs
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.dll
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\ref\63.Misc.Exercise.MagicSquare.dll
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.pdb
+D:\WS\CSharpBasic\63.Misc.Exercise.MagicSquare\obj\Debug\net5.0\63.Misc.Exercise.MagicSquare.genruntimeconfig.cache

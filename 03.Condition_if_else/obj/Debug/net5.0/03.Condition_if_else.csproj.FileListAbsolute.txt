@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\bin\Debug\net5.0\03.Condition_if_else.exe
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\bin\Debug\net5.0\03.Condition_if_else.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\bin\Debug\net5.0\03.Condition_if_else.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\bin\Debug\net5.0\03.Condition_if_else.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\bin\Debug\net5.0\03.Condition_if_else.dll
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\bin\Debug\net5.0\ref\03.Condition_if_else.dll
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\bin\Debug\net5.0\03.Condition_if_else.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.csprojAssemblyReference.cache
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.dll
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\ref\03.Condition_if_else.dll
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\03.Condition_if_else\obj\Debug\net5.0\03.Condition_if_else.genruntimeconfig.cache

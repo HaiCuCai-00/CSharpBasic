@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\bin\Debug\net5.0\13.JaggedArray.Basic.exe
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\bin\Debug\net5.0\13.JaggedArray.Basic.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\bin\Debug\net5.0\13.JaggedArray.Basic.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\bin\Debug\net5.0\13.JaggedArray.Basic.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\bin\Debug\net5.0\13.JaggedArray.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\bin\Debug\net5.0\ref\13.JaggedArray.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\bin\Debug\net5.0\13.JaggedArray.Basic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\13.JaggedArray.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\13.JaggedArray.Basic.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\13.JaggedArray.Basic.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\13.JaggedArray.Basic.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\13.JaggedArray.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\ref\13.JaggedArray.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\13.JaggedArray.Basic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\13.JaggedArray.Basic\obj\Debug\net5.0\13.JaggedArray.Basic.genruntimeconfig.cache

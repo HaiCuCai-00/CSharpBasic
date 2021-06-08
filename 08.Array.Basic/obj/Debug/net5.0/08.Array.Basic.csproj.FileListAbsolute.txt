@@ -1,0 +1,32 @@
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.exe
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.deps.json
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.dll
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\ref\08.Array.Basic.dll
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.pdb
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.dll
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\ref\08.Array.Basic.dll
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.pdb
+D:\WS\Backup C#\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.genruntimeconfig.cache
+D:\WS\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.exe
+D:\WS\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.deps.json
+D:\WS\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.runtimeconfig.json
+D:\WS\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.runtimeconfig.dev.json
+D:\WS\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.dll
+D:\WS\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\ref\08.Array.Basic.dll
+D:\WS\CSharpBasic\08.Array.Basic\bin\Debug\net5.0\08.Array.Basic.pdb
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.AssemblyInfo.cs
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.dll
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\ref\08.Array.Basic.dll
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.pdb
+D:\WS\CSharpBasic\08.Array.Basic\obj\Debug\net5.0\08.Array.Basic.genruntimeconfig.cache

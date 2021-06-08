@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\bin\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\bin\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\bin\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\bin\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\bin\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\bin\Debug\net5.0\ref\_55.Arry.Basic.Exercise.Zodiacs.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\bin\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\ref\_55.Arry.Basic.Exercise.Zodiacs.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_55.Arry.Basic.Exercise.Zodiacs\obj\Debug\net5.0\_55.Arry.Basic.Exercise.Zodiacs.genruntimeconfig.cache

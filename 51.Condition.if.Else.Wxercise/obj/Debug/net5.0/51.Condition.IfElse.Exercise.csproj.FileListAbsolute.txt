@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.exe
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\bin\Debug\net5.0\ref\51.Condition.IfElse.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.csprojAssemblyReference.cache
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\ref\51.Condition.IfElse.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\51.Condition.if.Else.Wxercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.genruntimeconfig.cache

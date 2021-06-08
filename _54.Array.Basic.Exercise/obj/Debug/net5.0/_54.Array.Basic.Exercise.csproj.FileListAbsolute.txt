@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\bin\Debug\net5.0\_54.Array.Basic.Exercise.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\bin\Debug\net5.0\_54.Array.Basic.Exercise.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\bin\Debug\net5.0\_54.Array.Basic.Exercise.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\bin\Debug\net5.0\_54.Array.Basic.Exercise.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\bin\Debug\net5.0\_54.Array.Basic.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\bin\Debug\net5.0\ref\_54.Array.Basic.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\bin\Debug\net5.0\_54.Array.Basic.Exercise.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\_54.Array.Basic.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\_54.Array.Basic.Exercise.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\_54.Array.Basic.Exercise.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\_54.Array.Basic.Exercise.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\_54.Array.Basic.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\ref\_54.Array.Basic.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\_54.Array.Basic.Exercise.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_54.Array.Basic.Exercise\obj\Debug\net5.0\_54.Array.Basic.Exercise.genruntimeconfig.cache

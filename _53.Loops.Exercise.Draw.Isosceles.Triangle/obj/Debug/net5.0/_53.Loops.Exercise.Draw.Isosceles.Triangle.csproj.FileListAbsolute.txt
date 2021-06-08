@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\bin\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\bin\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\bin\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\bin\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\bin\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\bin\Debug\net5.0\ref\_53.Loops.Exercise.Draw.Isosceles.Triangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\bin\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\ref\_53.Loops.Exercise.Draw.Isosceles.Triangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_53.Loops.Exercise.Draw.Isosceles.Triangle\obj\Debug\net5.0\_53.Loops.Exercise.Draw.Isosceles.Triangle.genruntimeconfig.cache

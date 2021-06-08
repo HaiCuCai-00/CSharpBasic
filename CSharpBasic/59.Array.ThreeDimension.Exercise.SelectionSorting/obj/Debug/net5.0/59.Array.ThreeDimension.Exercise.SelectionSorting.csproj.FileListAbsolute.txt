@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\bin\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.exe
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\bin\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.deps.json
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\bin\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.runtimeconfig.json
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\bin\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.runtimeconfig.dev.json
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\bin\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\bin\Debug\net5.0\ref\59.Array.ThreeDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\bin\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.pdb
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.AssemblyInfo.cs
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\ref\59.Array.ThreeDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.pdb
+D:\WS\CSharpBasic\59.Array.ThreeDimension.Exercise.SelectionSorting\obj\Debug\net5.0\59.Array.ThreeDimension.Exercise.SelectionSorting.genruntimeconfig.cache

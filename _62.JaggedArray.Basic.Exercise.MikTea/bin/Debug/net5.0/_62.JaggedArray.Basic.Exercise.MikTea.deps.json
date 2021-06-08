@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "_62.JaggedArray.Basic.Exercise.MikTea/1.0.0": {
+        "runtime": {
+          "_62.JaggedArray.Basic.Exercise.MikTea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_62.JaggedArray.Basic.Exercise.MikTea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

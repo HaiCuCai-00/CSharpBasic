@@ -1,0 +1,32 @@
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.exe
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.deps.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\ref\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.pdb
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\ref\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.pdb
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.genruntimeconfig.cache
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.exe
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.deps.json
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.runtimeconfig.json
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.runtimeconfig.dev.json
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\ref\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\bin\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.pdb
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.AssemblyInfo.cs
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\ref\51.Condition.IfElse.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.pdb
+D:\WS\CSharpBasic\51.Condition.IfElse.Exercise\obj\Debug\net5.0\51.Condition.IfElse.Exercise.MilkTea.genruntimeconfig.cache

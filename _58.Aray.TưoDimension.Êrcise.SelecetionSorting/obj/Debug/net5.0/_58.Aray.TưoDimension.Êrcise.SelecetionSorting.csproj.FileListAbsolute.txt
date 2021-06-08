@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\bin\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\bin\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\bin\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\bin\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\bin\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\bin\Debug\net5.0\ref\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\bin\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.csprojAssemblyReference.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\ref\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_58.Aray.TưoDimension.Êrcise.SelecetionSorting\obj\Debug\net5.0\_58.Aray.TưoDimension.Êrcise.SelecetionSorting.genruntimeconfig.cache

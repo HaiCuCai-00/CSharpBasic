@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\bin\Debug\net5.0\07.Loops.Basic.exe
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\bin\Debug\net5.0\07.Loops.Basic.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\bin\Debug\net5.0\07.Loops.Basic.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\bin\Debug\net5.0\07.Loops.Basic.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\bin\Debug\net5.0\07.Loops.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\bin\Debug\net5.0\ref\07.Loops.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\bin\Debug\net5.0\07.Loops.Basic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\07.Loops.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\07.Loops.Basic.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\07.Loops.Basic.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\07.Loops.Basic.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\07.Loops.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\ref\07.Loops.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\07.Loops.Basic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\07.Loops.Basic\obj\Debug\net5.0\07.Loops.Basic.genruntimeconfig.cache

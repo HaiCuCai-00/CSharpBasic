@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\bin\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\bin\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\bin\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\bin\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\bin\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\bin\Debug\net5.0\ref\_51.Codition.IfElse.Switch.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\bin\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.csprojAssemblyReference.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\ref\_51.Codition.IfElse.Switch.Exercise.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_51.Codition.IfElse.Switch.Exercise\obj\Debug\net5.0\_51.Codition.IfElse.Switch.Exercise.genruntimeconfig.cache

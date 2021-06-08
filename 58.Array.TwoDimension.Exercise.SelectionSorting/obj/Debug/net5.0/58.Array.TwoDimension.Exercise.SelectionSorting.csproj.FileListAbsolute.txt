@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\bin\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.exe
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\bin\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.deps.json
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\bin\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.runtimeconfig.json
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\bin\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.runtimeconfig.dev.json
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\bin\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\bin\Debug\net5.0\ref\58.Array.TwoDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\bin\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.pdb
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.AssemblyInfo.cs
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\ref\58.Array.TwoDimension.Exercise.SelectionSorting.dll
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.pdb
+D:\WS\CSharpBasic\58.Array.TwoDimension.Exercise.SelectionSorting\obj\Debug\net5.0\58.Array.TwoDimension.Exercise.SelectionSorting.genruntimeconfig.cache

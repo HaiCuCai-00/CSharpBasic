@@ -1,0 +1,31 @@
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.exe
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.deps.json
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\ref\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.pdb
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\ref\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.pdb
+D:\WS\Backup C#\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.genruntimeconfig.cache
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.exe
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.deps.json
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.runtimeconfig.json
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.runtimeconfig.dev.json
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\ref\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\52.Loops.Exercise.DrawTriangle.pdb
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.AssemblyInfo.cs
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\ref\52.Loops.Exercise.DrawTriangle.dll
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.pdb
+D:\WS\CSharpBasic\52.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\52.Loops.Exercise.DrawTriangle.genruntimeconfig.cache

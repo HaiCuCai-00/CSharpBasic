@@ -1,0 +1,15 @@
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\bin\Debug\net5.0\09.Array.Basic.Slicing.exe
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\bin\Debug\net5.0\09.Array.Basic.Slicing.deps.json
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\bin\Debug\net5.0\09.Array.Basic.Slicing.runtimeconfig.json
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\bin\Debug\net5.0\09.Array.Basic.Slicing.runtimeconfig.dev.json
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\bin\Debug\net5.0\09.Array.Basic.Slicing.dll
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\bin\Debug\net5.0\ref\09.Array.Basic.Slicing.dll
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\bin\Debug\net5.0\09.Array.Basic.Slicing.pdb
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\09.Array.Basic.Slicing.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\09.Array.Basic.Slicing.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\09.Array.Basic.Slicing.AssemblyInfo.cs
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\09.Array.Basic.Slicing.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\09.Array.Basic.Slicing.dll
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\ref\09.Array.Basic.Slicing.dll
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\09.Array.Basic.Slicing.pdb
+D:\WS\CSharpBasic\09.Array.Basic.Slicing\obj\Debug\net5.0\09.Array.Basic.Slicing.genruntimeconfig.cache

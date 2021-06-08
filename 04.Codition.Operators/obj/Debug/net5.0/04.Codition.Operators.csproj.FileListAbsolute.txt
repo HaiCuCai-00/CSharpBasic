@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\bin\Debug\net5.0\04.Codition.Operators.exe
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\bin\Debug\net5.0\04.Codition.Operators.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\bin\Debug\net5.0\04.Codition.Operators.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\bin\Debug\net5.0\04.Codition.Operators.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\bin\Debug\net5.0\04.Codition.Operators.dll
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\bin\Debug\net5.0\ref\04.Codition.Operators.dll
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\bin\Debug\net5.0\04.Codition.Operators.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.csprojAssemblyReference.cache
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.dll
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\ref\04.Codition.Operators.dll
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\04.Codition.Operators\obj\Debug\net5.0\04.Codition.Operators.genruntimeconfig.cache

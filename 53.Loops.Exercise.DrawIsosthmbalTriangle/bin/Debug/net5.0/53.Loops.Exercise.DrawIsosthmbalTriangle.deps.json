@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "53.Loops.Exercise.DrawIsosthmbalTriangle/1.0.0": {
+        "runtime": {
+          "53.Loops.Exercise.DrawIsosthmbalTriangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "53.Loops.Exercise.DrawIsosthmbalTriangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

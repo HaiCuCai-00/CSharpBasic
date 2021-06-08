@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\bin\Debug\net5.0\32.DataStructuce.Stack.exe
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\bin\Debug\net5.0\32.DataStructuce.Stack.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\bin\Debug\net5.0\32.DataStructuce.Stack.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\bin\Debug\net5.0\32.DataStructuce.Stack.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\bin\Debug\net5.0\32.DataStructuce.Stack.dll
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\bin\Debug\net5.0\ref\32.DataStructuce.Stack.dll
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\bin\Debug\net5.0\32.DataStructuce.Stack.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.dll
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\ref\32.DataStructuce.Stack.dll
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.genruntimeconfig.cache
+D:\.NET_LopAnnhManh\CSharpBasic\32.DataStructuce.Stack\obj\Debug\net5.0\32.DataStructuce.Stack.csprojAssemblyReference.cache

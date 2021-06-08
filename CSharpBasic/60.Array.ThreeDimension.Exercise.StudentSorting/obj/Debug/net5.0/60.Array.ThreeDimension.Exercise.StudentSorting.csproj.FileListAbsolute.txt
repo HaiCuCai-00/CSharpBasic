@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\bin\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.exe
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\bin\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.deps.json
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\bin\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.runtimeconfig.json
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\bin\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.runtimeconfig.dev.json
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\bin\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.dll
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\bin\Debug\net5.0\ref\60.Array.ThreeDimension.Exercise.StudentSorting.dll
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\bin\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.pdb
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.AssemblyInfo.cs
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.dll
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\ref\60.Array.ThreeDimension.Exercise.StudentSorting.dll
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.pdb
+D:\WS\CSharpBasic\60.Array.ThreeDimension.Exercise.StudentSorting\obj\Debug\net5.0\60.Array.ThreeDimension.Exercise.StudentSorting.genruntimeconfig.cache

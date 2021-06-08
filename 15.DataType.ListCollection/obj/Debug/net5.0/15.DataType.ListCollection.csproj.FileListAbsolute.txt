@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\bin\Debug\net5.0\15.DataType.ListCollection.exe
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\bin\Debug\net5.0\15.DataType.ListCollection.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\bin\Debug\net5.0\15.DataType.ListCollection.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\bin\Debug\net5.0\15.DataType.ListCollection.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\bin\Debug\net5.0\15.DataType.ListCollection.dll
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\bin\Debug\net5.0\ref\15.DataType.ListCollection.dll
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\bin\Debug\net5.0\15.DataType.ListCollection.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\15.DataType.ListCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\15.DataType.ListCollection.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\15.DataType.ListCollection.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\15.DataType.ListCollection.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\15.DataType.ListCollection.dll
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\ref\15.DataType.ListCollection.dll
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\15.DataType.ListCollection.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\15.DataType.ListCollection\obj\Debug\net5.0\15.DataType.ListCollection.genruntimeconfig.cache

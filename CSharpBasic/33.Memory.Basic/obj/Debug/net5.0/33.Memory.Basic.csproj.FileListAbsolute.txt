@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\33.Memory.Basic\bin\Debug\net5.0\33.Memory.Basic.exe
+D:\WS\CSharpBasic\33.Memory.Basic\bin\Debug\net5.0\33.Memory.Basic.deps.json
+D:\WS\CSharpBasic\33.Memory.Basic\bin\Debug\net5.0\33.Memory.Basic.runtimeconfig.json
+D:\WS\CSharpBasic\33.Memory.Basic\bin\Debug\net5.0\33.Memory.Basic.runtimeconfig.dev.json
+D:\WS\CSharpBasic\33.Memory.Basic\bin\Debug\net5.0\33.Memory.Basic.dll
+D:\WS\CSharpBasic\33.Memory.Basic\bin\Debug\net5.0\ref\33.Memory.Basic.dll
+D:\WS\CSharpBasic\33.Memory.Basic\bin\Debug\net5.0\33.Memory.Basic.pdb
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.AssemblyInfo.cs
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.dll
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\ref\33.Memory.Basic.dll
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.pdb
+D:\WS\CSharpBasic\33.Memory.Basic\obj\Debug\net5.0\33.Memory.Basic.genruntimeconfig.cache

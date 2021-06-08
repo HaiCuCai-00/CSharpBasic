@@ -1,0 +1,48 @@
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.exe
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.deps.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.runtimeconfig.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.runtimeconfig.dev.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\ref\02.DataType.Basic.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.csprojAssemblyReference.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.AssemblyInfoInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.AssemblyInfo.cs
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.csproj.CoreCompileInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\ref\02.DataType.Basic.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.genruntimeconfig.cache
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.exe
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.deps.json
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.dll
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\ref\02.DataType.Basic.dll
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.pdb
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.dll
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\ref\02.DataType.Basic.dll
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.pdb
+D:\WS\Backup C#\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.genruntimeconfig.cache
+D:\WS\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.exe
+D:\WS\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.deps.json
+D:\WS\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.runtimeconfig.json
+D:\WS\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.runtimeconfig.dev.json
+D:\WS\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.dll
+D:\WS\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\ref\02.DataType.Basic.dll
+D:\WS\CSharpBasic\02.DataType.Basic\bin\Debug\net5.0\02.DataType.Basic.pdb
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.AssemblyInfo.cs
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.dll
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\ref\02.DataType.Basic.dll
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.pdb
+D:\WS\CSharpBasic\02.DataType.Basic\obj\Debug\net5.0\02.DataType.Basic.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.exe
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.dll
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\ref\06.Condition.SwitchCase.dll
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\bin\Debug\net5.0\06.Condition.SwitchCase.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.dll
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\ref\06.Condition.SwitchCase.dll
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\06.Condition.SwitchCase\obj\Debug\net5.0\06.Condition.SwitchCase.genruntimeconfig.cache

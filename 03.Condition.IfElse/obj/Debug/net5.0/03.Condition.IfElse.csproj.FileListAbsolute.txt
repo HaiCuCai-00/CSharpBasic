@@ -1,0 +1,48 @@
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.exe
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.deps.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.runtimeconfig.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.runtimeconfig.dev.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\ref\03.Condition.IfElse.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.csprojAssemblyReference.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.AssemblyInfoInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.AssemblyInfo.cs
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.csproj.CoreCompileInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\ref\03.Condition.IfElse.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.genruntimeconfig.cache
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.exe
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.deps.json
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.dll
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\ref\03.Condition.IfElse.dll
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.pdb
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.dll
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\ref\03.Condition.IfElse.dll
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.pdb
+D:\WS\Backup C#\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.genruntimeconfig.cache
+D:\WS\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.exe
+D:\WS\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.deps.json
+D:\WS\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.runtimeconfig.json
+D:\WS\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.runtimeconfig.dev.json
+D:\WS\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.dll
+D:\WS\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\ref\03.Condition.IfElse.dll
+D:\WS\CSharpBasic\03.Condition.IfElse\bin\Debug\net5.0\03.Condition.IfElse.pdb
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.AssemblyInfo.cs
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.dll
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\ref\03.Condition.IfElse.dll
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.pdb
+D:\WS\CSharpBasic\03.Condition.IfElse\obj\Debug\net5.0\03.Condition.IfElse.genruntimeconfig.cache

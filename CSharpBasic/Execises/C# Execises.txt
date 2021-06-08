@@ -1,0 +1,110 @@
+1) Code lại bài tập mua trà sữa:
+- Dùng số thập phân thay cho nhị phân
+- Dùng phép so sánh khác thay cho phép dịch bit. Nghĩa là không dùng cú pháp này nữa "((order1 >> 16 & 1) == 1)"
+
+2) Trong máy tính có rất nhiều tập tin (file). Người quản trị có thể gán cho 1 file những quyền như sau:
+- Quyền đọc      (Read)   : Tập tin được gán quyền này có thể được mở lên để đọc nhưng không được sửa và xóa
+- Quyền ghi      (Write)  : Tập tin được gán quyền này có thể được sửa nội dung nhưng không được xóa
+- Quyền thực thi (Delete) : Tập tin được gán quyền này có thể được xóa
+
+
+Viết một hàm. Có:
+- Input là một biến đại diện cho một tập tin
+- Output là một đoạn văn bản mô tả về tập tin này. Ví dụ: "Tập tin x này được quyền ghi và xóa"
+
+3) Vẽ tam giác
+Ví dụ:
+Cho: 
+n = 5
+
+Kết quả:
+    *
+   ***
+  *****
+ *******
+*********
+
+4) In ra chuỗi ký tự từ A đến Z
+
+5) Nhập vào 1 số tiền, in ra số tờ mệnh giá cần để đáp ứng số tiền đó:
+Ví dụ:
+Cho:
+m = 5_210_000
+
+Kêt quả:
+500_000: 10 tờ
+200_000: 1  tờ
+10_000 : 1  tờ
+
+6) Nhập vào một năm, chương trình sẽ hiển thị năm đó là năm con gì?
+Ví dụ:
+Cho:
+Year = 1994
+
+Kết quả:
+Tuất
+
+7) Nghiên cứu thuật toán Bubble Sort
+- Làm bài sắp xếp với mảng số (tự cho số tùy ý)
+- Làm bài sắp xếp với mảng Student (tự cho student tùy ý)
+
+8) Viết cấu trúc dữ liệu Stack. 
+Sau đó, dùng cấu trúc này để giả lập hành vi lướt web và lưu lịch sử web của trình duyệt.
+Khi người dùng bấm nút Back, thì nó quay trở lại trang web trước đó.
+
+9) Dùng thuật toán sắp xếp chọn (Selection Sort) để sắp xếp mảng 2 chiều [4, 8]
+Trước khi sắp xếp:
+{
+  { 3 20  9 0 },
+  { 1  2 10 4 }
+}
+Sau khi sắp xếp:
+{
+  { 0 1  2  3},
+  { 4 9 10 20} 
+}
+
+10) Dùng thuật toán sắp xếp chọn (Selection Sort) để sắp xếp mảng 3 chiều [3, 2, 4]
+Trước khi sắp xếp:
+{
+  {
+   3 20  9 0
+   1  2 10 4 
+  },
+
+  {
+   3 20  9 0
+   1  2 10 4 
+  },
+
+  {
+   3 20  9 0
+   1  2 10 4 
+  }
+}
+Sau khi sắp xếp:
+{
+  {
+   0 0 0 1
+   1 1 2 2 
+  },
+
+  {
+   2 3 3 3
+   4 4 4 9 
+  },
+
+  {
+    9  9 10 10
+   10 20 20 20
+  }
+}
+
+11) Dùng mảng Jagged Array làm lại bài tập mua trà sữa
+
+12) Tạo mảng NxN. Nhập các phần tử trong mảng. Kiểm tra xem mảng đó có phải là ma phương hay không?
+
+
+
+
+

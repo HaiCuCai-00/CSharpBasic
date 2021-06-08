@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\bin\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\bin\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\bin\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\bin\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\bin\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\bin\Debug\net5.0\ref\_62.JaggedArray.Basic.Exercise.MikTea.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\bin\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.csprojAssemblyReference.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\ref\_62.JaggedArray.Basic.Exercise.MikTea.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_62.JaggedArray.Basic.Exercise.MikTea\obj\Debug\net5.0\_62.JaggedArray.Basic.Exercise.MikTea.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\bin\Debug\net5.0\_55.TinhNamConGi.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\bin\Debug\net5.0\_55.TinhNamConGi.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\bin\Debug\net5.0\_55.TinhNamConGi.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\bin\Debug\net5.0\_55.TinhNamConGi.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\bin\Debug\net5.0\_55.TinhNamConGi.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\bin\Debug\net5.0\ref\_55.TinhNamConGi.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\bin\Debug\net5.0\_55.TinhNamConGi.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\ref\_55.TinhNamConGi.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.genruntimeconfig.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_55.TinhNamConGi\obj\Debug\net5.0\_55.TinhNamConGi.csprojAssemblyReference.cache

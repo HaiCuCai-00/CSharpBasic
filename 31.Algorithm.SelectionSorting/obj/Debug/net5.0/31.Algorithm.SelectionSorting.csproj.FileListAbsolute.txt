@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\bin\Debug\net5.0\31.Algorithm.SelectionSorting.exe
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\bin\Debug\net5.0\31.Algorithm.SelectionSorting.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\bin\Debug\net5.0\31.Algorithm.SelectionSorting.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\bin\Debug\net5.0\31.Algorithm.SelectionSorting.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\bin\Debug\net5.0\31.Algorithm.SelectionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\bin\Debug\net5.0\ref\31.Algorithm.SelectionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\bin\Debug\net5.0\31.Algorithm.SelectionSorting.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\ref\31.Algorithm.SelectionSorting.dll
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.genruntimeconfig.cache
+D:\.NET_LopAnnhManh\CSharpBasic\31.Algorithm.SelectionSorting\obj\Debug\net5.0\31.Algorithm.SelectionSorting.csprojAssemblyReference.cache

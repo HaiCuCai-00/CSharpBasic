@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "52.Loops.Exercise.DrawTriangle/1.0.0": {
+        "runtime": {
+          "52.Loops.Exercise.DrawTriangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "52.Loops.Exercise.DrawTriangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

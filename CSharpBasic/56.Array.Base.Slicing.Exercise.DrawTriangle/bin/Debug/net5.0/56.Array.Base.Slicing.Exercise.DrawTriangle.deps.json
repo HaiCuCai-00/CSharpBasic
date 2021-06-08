@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "56.Array.Base.Slicing.Exercise.DrawTriangle/1.0.0": {
+        "runtime": {
+          "56.Array.Base.Slicing.Exercise.DrawTriangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "56.Array.Base.Slicing.Exercise.DrawTriangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

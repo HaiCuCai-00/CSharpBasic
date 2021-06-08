@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.exe
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\ref\_52Condition.Loops.Exercise.DrawTriangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\bin\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\ref\_52Condition.Loops.Exercise.DrawTriangle.dll
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\_52Condition.Loops.Exercise.DrawTriangle\obj\Debug\net5.0\_52Condition.Loops.Exercise.DrawTriangle.genruntimeconfig.cache

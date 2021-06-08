@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\bin\Debug\net5.0\10.Array.TwoDimesion.Basic.exe
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\bin\Debug\net5.0\10.Array.TwoDimesion.Basic.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\bin\Debug\net5.0\10.Array.TwoDimesion.Basic.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\bin\Debug\net5.0\10.Array.TwoDimesion.Basic.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\bin\Debug\net5.0\10.Array.TwoDimesion.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\bin\Debug\net5.0\ref\10.Array.TwoDimesion.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\bin\Debug\net5.0\10.Array.TwoDimesion.Basic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\ref\10.Array.TwoDimesion.Basic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.genruntimeconfig.cache
+D:\.NET_LopAnnhManh\CSharpBasic\10.Array.TwoDimesion.Basic\obj\Debug\net5.0\10.Array.TwoDimesion.Basic.csprojAssemblyReference.cache

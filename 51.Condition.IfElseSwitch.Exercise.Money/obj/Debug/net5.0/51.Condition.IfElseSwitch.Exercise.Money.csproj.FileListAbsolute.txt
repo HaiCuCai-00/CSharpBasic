@@ -1,0 +1,32 @@
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.exe
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.deps.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\ref\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.pdb
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\ref\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.pdb
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.genruntimeconfig.cache
+D:\WS\Backup C#\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.exe
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.deps.json
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.runtimeconfig.json
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.runtimeconfig.dev.json
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\ref\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\bin\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.pdb
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.AssemblyInfo.cs
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\ref\51.Condition.IfElseSwitch.Exercise.Money.dll
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.pdb
+D:\WS\CSharpBasic\51.Condition.IfElseSwitch.Exercise.Money\obj\Debug\net5.0\51.Condition.IfElseSwitch.Exercise.Money.genruntimeconfig.cache

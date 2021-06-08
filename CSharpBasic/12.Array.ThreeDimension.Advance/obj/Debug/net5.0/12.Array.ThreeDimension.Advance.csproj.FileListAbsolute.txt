@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\bin\Debug\net5.0\12.Array.ThreeDimension.Advance.exe
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\bin\Debug\net5.0\12.Array.ThreeDimension.Advance.deps.json
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\bin\Debug\net5.0\12.Array.ThreeDimension.Advance.runtimeconfig.json
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\bin\Debug\net5.0\12.Array.ThreeDimension.Advance.runtimeconfig.dev.json
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\bin\Debug\net5.0\12.Array.ThreeDimension.Advance.dll
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\bin\Debug\net5.0\ref\12.Array.ThreeDimension.Advance.dll
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\bin\Debug\net5.0\12.Array.ThreeDimension.Advance.pdb
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.AssemblyInfo.cs
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.dll
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\ref\12.Array.ThreeDimension.Advance.dll
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.pdb
+D:\WS\CSharpBasic\12.Array.ThreeDimension.Advance\obj\Debug\net5.0\12.Array.ThreeDimension.Advance.genruntimeconfig.cache

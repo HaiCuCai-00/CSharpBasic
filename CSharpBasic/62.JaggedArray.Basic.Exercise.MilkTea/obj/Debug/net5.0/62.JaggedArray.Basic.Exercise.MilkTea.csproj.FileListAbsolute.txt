@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\bin\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.exe
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\bin\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.deps.json
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\bin\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.runtimeconfig.json
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\bin\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.runtimeconfig.dev.json
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\bin\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\bin\Debug\net5.0\ref\62.JaggedArray.Basic.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\bin\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.pdb
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.AssemblyInfo.cs
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\ref\62.JaggedArray.Basic.Exercise.MilkTea.dll
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.pdb
+D:\WS\CSharpBasic\62.JaggedArray.Basic.Exercise.MilkTea\obj\Debug\net5.0\62.JaggedArray.Basic.Exercise.MilkTea.genruntimeconfig.cache

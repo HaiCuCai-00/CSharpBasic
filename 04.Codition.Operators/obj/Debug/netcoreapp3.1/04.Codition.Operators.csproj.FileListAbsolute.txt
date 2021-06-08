@@ -1,0 +1,39 @@
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.exe
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.deps.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.runtimeconfig.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.runtimeconfig.dev.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.csprojAssemblyReference.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.AssemblyInfoInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.AssemblyInfo.cs
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.csproj.CoreCompileInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.genruntimeconfig.cache
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.exe
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.deps.json
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.dll
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.pdb
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.dll
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.pdb
+D:\WS\Backup C#\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.genruntimeconfig.cache
+D:\WS\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.exe
+D:\WS\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.deps.json
+D:\WS\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.runtimeconfig.json
+D:\WS\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.runtimeconfig.dev.json
+D:\WS\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.dll
+D:\WS\CSharpBasic\04.Codition.Operators\bin\Debug\netcoreapp3.1\04.Codition.Operators.pdb
+D:\WS\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.AssemblyInfo.cs
+D:\WS\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.dll
+D:\WS\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.pdb
+D:\WS\CSharpBasic\04.Codition.Operators\obj\Debug\netcoreapp3.1\04.Codition.Operators.genruntimeconfig.cache

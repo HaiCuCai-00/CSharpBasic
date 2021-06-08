@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "55.Array.Basic.Exercise.Zodiacs/1.0.0": {
+        "runtime": {
+          "55.Array.Basic.Exercise.Zodiacs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "55.Array.Basic.Exercise.Zodiacs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

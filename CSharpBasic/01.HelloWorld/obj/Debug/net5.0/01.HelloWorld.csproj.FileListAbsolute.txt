@@ -1,0 +1,48 @@
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.exe
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.deps.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.runtimeconfig.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.runtimeconfig.dev.json
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\ref\01.HelloWorld.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.AssemblyInfoInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.AssemblyInfo.cs
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\ref\01.HelloWorld.dll
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.pdb
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.genruntimeconfig.cache
+C:\Users\ManhNH25\Desktop\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.exe
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.deps.json
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.runtimeconfig.json
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.runtimeconfig.dev.json
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.dll
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\ref\01.HelloWorld.dll
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.pdb
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.csprojAssemblyReference.cache
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.AssemblyInfoInputs.cache
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.AssemblyInfo.cs
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.csproj.CoreCompileInputs.cache
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.dll
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\ref\01.HelloWorld.dll
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.pdb
+D:\WS\Backup C#\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.genruntimeconfig.cache
+D:\WS\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.exe
+D:\WS\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.deps.json
+D:\WS\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.runtimeconfig.json
+D:\WS\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.runtimeconfig.dev.json
+D:\WS\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.dll
+D:\WS\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\ref\01.HelloWorld.dll
+D:\WS\CSharpBasic\01.HelloWorld\bin\Debug\net5.0\01.HelloWorld.pdb
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.csprojAssemblyReference.cache
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.AssemblyInfo.cs
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.dll
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\ref\01.HelloWorld.dll
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.pdb
+D:\WS\CSharpBasic\01.HelloWorld\obj\Debug\net5.0\01.HelloWorld.genruntimeconfig.cache

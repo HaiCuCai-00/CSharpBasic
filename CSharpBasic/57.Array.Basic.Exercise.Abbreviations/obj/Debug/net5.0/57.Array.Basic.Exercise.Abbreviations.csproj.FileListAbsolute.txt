@@ -1,0 +1,16 @@
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\bin\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.exe
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\bin\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.deps.json
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\bin\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.runtimeconfig.json
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\bin\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.runtimeconfig.dev.json
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\bin\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.dll
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\bin\Debug\net5.0\ref\57.Array.Basic.Exercise.Abbreviations.dll
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\bin\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.pdb
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.AssemblyInfoInputs.cache
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.AssemblyInfo.cs
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.csproj.CoreCompileInputs.cache
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.dll
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\ref\57.Array.Basic.Exercise.Abbreviations.dll
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.pdb
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.genruntimeconfig.cache
+D:\WS\CSharpBasic\57.Array.Basic.Exercise.Abbreviations\obj\Debug\net5.0\57.Array.Basic.Exercise.Abbreviations.csprojAssemblyReference.cache

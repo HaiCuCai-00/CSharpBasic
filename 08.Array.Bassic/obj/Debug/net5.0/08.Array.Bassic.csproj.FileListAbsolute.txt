@@ -1,0 +1,16 @@
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.csprojAssemblyReference.cache
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\bin\Debug\net5.0\08.Array.Bassic.exe
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\bin\Debug\net5.0\08.Array.Bassic.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\bin\Debug\net5.0\08.Array.Bassic.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\bin\Debug\net5.0\08.Array.Bassic.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\bin\Debug\net5.0\08.Array.Bassic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\bin\Debug\net5.0\ref\08.Array.Bassic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\bin\Debug\net5.0\08.Array.Bassic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\ref\08.Array.Bassic.dll
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\08.Array.Bassic\obj\Debug\net5.0\08.Array.Bassic.genruntimeconfig.cache

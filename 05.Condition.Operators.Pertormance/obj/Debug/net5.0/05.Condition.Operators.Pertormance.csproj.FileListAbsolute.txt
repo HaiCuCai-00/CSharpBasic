@@ -1,0 +1,15 @@
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\bin\Debug\net5.0\05.Condition.Operators.Pertormance.exe
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\bin\Debug\net5.0\05.Condition.Operators.Pertormance.deps.json
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\bin\Debug\net5.0\05.Condition.Operators.Pertormance.runtimeconfig.json
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\bin\Debug\net5.0\05.Condition.Operators.Pertormance.runtimeconfig.dev.json
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\bin\Debug\net5.0\05.Condition.Operators.Pertormance.dll
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\bin\Debug\net5.0\ref\05.Condition.Operators.Pertormance.dll
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\bin\Debug\net5.0\05.Condition.Operators.Pertormance.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\05.Condition.Operators.Pertormance.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\05.Condition.Operators.Pertormance.AssemblyInfoInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\05.Condition.Operators.Pertormance.AssemblyInfo.cs
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\05.Condition.Operators.Pertormance.csproj.CoreCompileInputs.cache
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\05.Condition.Operators.Pertormance.dll
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\ref\05.Condition.Operators.Pertormance.dll
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\05.Condition.Operators.Pertormance.pdb
+D:\.NET_LopAnnhManh\CSharpBasic\05.Condition.Operators.Pertormance\obj\Debug\net5.0\05.Condition.Operators.Pertormance.genruntimeconfig.cache
